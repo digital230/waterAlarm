@@ -33,9 +33,9 @@ class Home extends Component {
           style={styles.wave}
           H={1}
           waveParams={[
-              {A: 10, T: 180, fill: '#62c2ff'},
-              {A: 15, T: 140, fill: '#0087dc'},
-              {A: 20, T: 100, fill: '#1aa7ff'},
+              {A: 20, T: 380, fill: '#62c2ff'},
+              {A: 25, T: 280, fill: '#0087dc'},
+              // {A: 20, T: 200, fill: '#1aa7ff'},
           ]}
           animated={true}
         />
