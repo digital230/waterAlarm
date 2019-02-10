@@ -1,0 +1,3 @@
+rootProject.name = 'wateAlaram'
+
+include ':app'
